@@ -22,7 +22,7 @@
 
 
 .logo {
-    background-image: url(../_imagens/logohead.png);      
+    background-image: url("../_imagens/logohead.png");      
     width: 45%; 
     float: left;
     float: top;
@@ -35,7 +35,7 @@
 .navigation {
     min-width: 100%;
     height: 80vh;
-    background-image: url(../_imagens/wallpaper-desktop-00.jpg);
+    background-image: url("../_imagens/wallpaper-desktop-00.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -121,11 +121,11 @@ nav ul li a {padding: 1.2em;}
 }
 
 .box:hover .icon{box-shadow:0px 0px 0px 0px rgba(255, 255, 255, .6);}
-.box .img1 {background-image: url(../_imagens/monitor.png);}
-.box .img2 {background-image: url(../_imagens/idea.png);}
-.box .img3 {background-image: url(../_imagens/code.png);}
-.box .img4 {background-image: url(../_imagens/gear.png);}
-.box .img5 {background-image: url(../_imagens/cloud.png);}
+.box .img1 {background-image: url("../_imagens/monitor.png");}
+.box .img2 {background-image: url("../_imagens/idea.png");}
+.box .img3 {background-image: url("../_imagens/code.png");}
+.box .img4 {background-image: url("../_imagens/gear.png");}
+.box .img5 {background-image: url("../_imagens/cloud.png");}
 .box > h3 {color: #e5e5e5; margin-top: 30px; font-weight: 300;}
 .box > p {display: none; color: #ffffff; text-align: center; font-size: .9em;}
 .box:hover p {display: block;}
@@ -147,10 +147,10 @@ nav ul li a {padding: 1.2em;}
 }
 
 .sobre { margin-top: -10px;}
-.imagem01 {background-image: url(../_imagens/wallpaper-apple.jpg);}
-.imagem02 { background-image: url(../_imagens/wallpaper-desktop-02.jpg);}
-.imagem03 { background-image: url(../_imagens/wallpaper-visao.jpg);}
-.imagem04 { background-image: url(../_imagens/wallpaper-valoes.jpg);}
+.imagem01 {background-image: url("../_imagens/wallpaper-apple.jpg");}
+.imagem02 { background-image: url("../_imagens/wallpaper-desktop-02.jpg");}
+.imagem03 { background-image: url("../_imagens/wallpaper-visao.jpg");}
+.imagem04 { background-image: url("../_imagens/wallpaper-valoes.jpg");}
 .software, .apps {width: 30%; height: 400px; margin: 50px 10% 0 10%;}
 button {border: none; background-color: #fd9b00; padding: 10px 20px; display: block;}
 
